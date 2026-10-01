@@ -1,25 +1,25 @@
-# Astra — Privacy Policy
+# Nibbly Bot — Privacy Policy
 
 **Last Updated:** September 26, 2026
 
-This Privacy Policy explains how **Astra** ("Astra", "the Bot", "we", "us", or "our") collects, uses, stores, and protects information when you use Astra on Discord.
+This Privacy Policy explains how **Nibbly Bot** ("Nibbly Bot", "the Bot", "we", "us", or "our") collects, uses, stores, and protects information when you use Nibbly Bot on Discord.
 
-By using Astra, you acknowledge that you have read and understood this Privacy Policy.
+By using Nibbly Bot, you acknowledge that you have read and understood this Privacy Policy.
 
 ## 1. Who We Are
 
-Astra is a Discord bot designed to provide moderation, security, ticket, support, and community-management features.
+Nibbly Bot is a Discord bot designed to provide moderation, security, ticket, support, and community-management features.
 
 **Developer / Operator:** TopDev Studio
 **Support Server:** [Coming Soon]
 
 ## 2. Information We May Collect
 
-Depending on the features enabled on a Discord server, Astra may process the following information:
+Depending on the features enabled on a Discord server, Nibbly Bot may process the following information:
 
 ### Discord Information
 
-Astra may process basic Discord information necessary to provide its functionality, including:
+Nibbly Bot may process basic Discord information necessary to provide its functionality, including:
 
 * Discord User IDs;
 * Discord Server (Guild) IDs;
@@ -30,11 +30,11 @@ Astra may process basic Discord information necessary to provide its functionali
 * Information about roles and permissions;
 * Bot configuration and server settings.
 
-Astra does not require users to provide their Discord passwords, authentication tokens, or other Discord account credentials.
+Nibbly Bot does not require users to provide their Discord passwords, authentication tokens, or other Discord account credentials.
 
 ### Moderation Data
 
-When moderation features are enabled, Astra may process information related to moderation actions, such as:
+When moderation features are enabled, Nibbly Bot may process information related to moderation actions, such as:
 
 * Warnings;
 * Mutes;
@@ -50,7 +50,7 @@ Moderation records are generally retained for **30 days**, unless they are requi
 
 ## 3. Security Data
 
-Astra may process information necessary to provide security and anti-abuse features.
+Nibbly Bot may process information necessary to provide security and anti-abuse features.
 
 This may include:
 
@@ -69,7 +69,7 @@ Longer retention may occur when reasonably necessary to investigate an ongoing s
 
 ## 4. Ticket and Support Data
 
-If a server uses Astra's ticket or support functionality, Astra may process information contained within tickets and support conversations.
+If a server uses Nibbly Bot's ticket or support functionality, Nibbly Bot may process information contained within tickets and support conversations.
 
 This may include:
 
@@ -82,11 +82,11 @@ This may include:
 
 Ticket data is generally retained for **30 days after the ticket is closed**, after which it may be permanently deleted.
 
-Server administrators may independently export, copy, or retain ticket information outside Astra. Astra is not responsible for information retained independently by server administrators.
+Server administrators may independently export, copy, or retain ticket information outside Nibbly Bot. Nibbly Bot is not responsible for information retained independently by server administrators.
 
 ## 5. Server Configuration Data
 
-Astra stores configuration information required to operate on a Discord server.
+Nibbly Bot stores configuration information required to operate on a Discord server.
 
 This may include:
 
@@ -97,15 +97,15 @@ This may include:
 * Moderation settings;
 * Security settings;
 * Ticket settings;
-* Other Astra-specific configuration.
+* Other Nibbly Bot-specific configuration.
 
-Server configuration data is generally retained **for as long as Astra remains installed on the respective Discord server**.
+Server configuration data is generally retained **for as long as Nibbly Bot remains installed on the respective Discord server**.
 
-When Astra is removed from a server, server-specific configuration data will generally be deleted within **30 days**.
+When Nibbly Bot is removed from a server, server-specific configuration data will generally be deleted within **30 days**.
 
 ## 6. Technical Logs
 
-Astra may temporarily process technical information necessary to operate, monitor, and troubleshoot the service.
+Nibbly Bot may temporarily process technical information necessary to operate, monitor, and troubleshoot the service.
 
 Technical logs may include:
 
@@ -121,16 +121,16 @@ Technical logs are generally retained for **14 days** and are then deleted or ov
 
 We may use the information described above to:
 
-* Provide Astra's features;
+* Provide Nibbly Bot's features;
 * Provide moderation functionality;
 * Provide security and anti-abuse functionality;
 * Manage tickets and support requests;
 * Store server configurations;
-* Maintain and improve Astra;
+* Maintain and improve Nibbly Bot;
 * Detect and prevent abuse;
 * Diagnose technical problems;
-* Monitor the reliability and security of Astra;
-* Protect the security and integrity of Astra;
+* Monitor the reliability and security of Nibbly Bot;
+* Protect the security and integrity of Nibbly Bot;
 * Comply with applicable legal obligations.
 
 We do not intentionally sell personal information to third parties.
@@ -143,66 +143,66 @@ We follow the principle of retaining information only for as long as reasonably 
 
 Our standard retention periods are:
 
-| Data Type            |                     Standard Retention |
-| -------------------- | -------------------------------------: |
-| Server configuration | Until Astra is removed + up to 30 days |
-| Moderation records   |                                30 days |
-| Security events      |                                 7 days |
-| Ticket data          |           30 days after ticket closure |
-| Technical logs       |                                14 days |
+| Data Type            |                          Standard Retention |
+| -------------------- | ------------------------------------------: |
+| Server configuration | Until Nibbly Bot is removed + up to 30 days |
+| Moderation records   |                                     30 days |
+| Security events      |                                      7 days |
+| Ticket data          |                30 days after ticket closure |
+| Technical logs       |                                     14 days |
 
-These periods may be extended where reasonably necessary to investigate security incidents, prevent abuse, comply with legal obligations, resolve disputes, or protect the rights and security of Astra and its users.
+These periods may be extended where reasonably necessary to investigate security incidents, prevent abuse, comply with legal obligations, resolve disputes, or protect the rights and security of Nibbly Bot and its users.
 
 ## 9. Data Deletion
 
-When Astra is removed from a Discord server, server-specific configuration data will generally be scheduled for deletion within **30 days**.
+When Nibbly Bot is removed from a Discord server, server-specific configuration data will generally be scheduled for deletion within **30 days**.
 
 Users or server administrators may also contact us to request deletion of applicable information.
 
-Do this in our Discord Server.
+Please contact us through our Discord Server.
 
 Please note that certain information may need to be retained where required by law or where reasonably necessary for security, fraud prevention, dispute resolution, or other legitimate purposes.
 
 ## 10. Discord
 
-Astra operates through the Discord platform and interacts with Discord's API.
+Nibbly Bot operates through the Discord platform and interacts with Discord's API.
 
 Your use of Discord is also subject to Discord's own Privacy Policy, Terms of Service, and other applicable policies.
 
-Astra does not control how Discord independently processes information through its platform.
+Nibbly Bot does not control how Discord independently processes information through its platform.
 
-Discord Privacy Policy:
+**Discord Privacy Policy:**
 
 https://discord.com/privacy
 
 ## 11. Third-Party Services
 
-Astra may use third-party services for hosting, databases, monitoring, error reporting, or other technical purposes.
+Nibbly Bot may use third-party services for hosting, databases, monitoring, error reporting, or other technical purposes.
 
-These services may process limited information on our behalf where necessary to provide Astra.
+These services may process limited information on our behalf where necessary to provide Nibbly Bot.
 
 Our current infrastructure providers may include:
 
 * **games.nod3** — Bot hosting / infrastructure
 * **Supabase** — Database storage
 
-We will only list providers that are actually used by Astra.
+We will only list providers that are actually used by Nibbly Bot.
 
 Third-party providers may process information according to their own privacy policies and applicable data-processing agreements.
 
 ## 12. Data Security
 
-We take reasonable technical and organizational measures to protect information processed by Astra against unauthorized access, alteration, disclosure, loss, or destruction.
+We take reasonable technical and organizational measures to protect information processed by Nibbly Bot against unauthorized access, alteration, disclosure, loss, or destruction.
 
 However, no online service can guarantee absolute security.
 
-Users should avoid submitting passwords, authentication tokens, payment information, or other highly sensitive information through Astra.
+Users should avoid submitting passwords, authentication tokens, payment information, or other highly sensitive information through Nibbly Bot.
 
 ## 13. Children's Privacy
 
-Astra is not intended to knowingly collect personal information directly from children.
+Nibbly Bot is not intended to knowingly collect personal information directly from children.
 
-Because Astra operates through Discord, users are also subject to Discord's age requirements and policies.
+Because Nibbly Bot operates through Discord, users are also subject to Discord's age requirements and policies.
 
 ## 14. Your Rights
 
@@ -220,7 +220,7 @@ We will review and respond to requests in accordance with applicable law.
 
 ## 15. International Data Transfers
 
-Astra and its service providers may process or store information in countries other than the country in which you live.
+Nibbly Bot and its service providers may process or store information in countries other than the country in which you live.
 
 Where required by applicable law, appropriate safeguards will be used for international transfers of personal information.
 
@@ -234,11 +234,11 @@ If significant changes are made, we may provide additional notice where appropri
 
 ## 17. Contact
 
-If you have questions about this Privacy Policy or how Astra handles information, please contact us:
+If you have questions about this Privacy Policy or how Nibbly Bot handles information, please contact us:
 
-**Astra Team**
+**Nibbly Bot Team**
 **Discord:** [COMING SOON]
 
 ---
 
-**By using Astra, you acknowledge that you have read and understood this Privacy Policy.**
+**By using Nibbly Bot, you acknowledge that you have read and understood this Privacy Policy.**
